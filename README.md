@@ -6,4 +6,4 @@ This is a supervised ML model that predicts match winners in the FIFA world cup 
 
 -Scikit-Learn: for model training and evaluating Linear Regression and Random Forest models.
 
-I applied feature engineering and model evaluation techniques to improve prediction accueacy from an initial 53% to 67%.
+I applied feature engineering and model evaluation techniques to improve prediction accueacy from an initial 53% to 60.6%.
