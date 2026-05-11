@@ -1,6 +1,6 @@
 # FIFA-World-Cup-Match-Outcome-Prediction-Machine-Learning-Model
-This is a supervised ML model that predicts match winners in the FIFA world cup using historic World Cup data. I built it in python and used the follwoing libraries:
 ----------
+This is a supervised ML model that predicts match winners in the FIFA world cup using historic World Cup data. I built it in python and used the follwoing libraries:
 
 -Pandas: for data processing.
 
